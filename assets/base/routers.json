@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Router 1",
+        "hostname": "Xicso XP2v1",
+        "os": "IOS 3.4",
+        "ip4": "192.168.1.0",
+        "ip6": "2001:0db8:85a3:0000:0030:8a2e:0370:7334",
+        "subnet": "192.168.2.x",
+        "username": "admin",
+        "password": "password",
+        "mask": "255.255.255.0",
+        "mac": "",
+        "ipdefault": "192.168.1.0",
+        "links": []
+    },
+    {
+        "name": "Router 2",
+        "hostname": "Xicso XP2v2",
+        "os": "IOS 3.5",
+        "ip4": "192.168.2.0",
+        "ip6": "2001:0db8:85a3:0000:0080:8a2e:0370:7334",
+        "subnet": "192.168.2.x",
+        "username": "admin",
+        "password": "password",
+        "mask": "255.255.255.0",
+        "mac": "",
+        "ipdefault": "192.168.2.0",
+        "links": []
+    },
+    {
+        "name": "Router 3",
+        "hostname": "Xicso XP2v3",
+        "os": "IOS 3.4",
+        "ip4": "192.168.3.0",
+        "ip6": "2001:0db8:85a3:0000:0200:8a2e:0370:7334",
+        "subnet": "192.168.2.x",
+        "username": "admin",
+        "password": "password",
+        "mask": "255.255.255.0",
+        "mac": "",
+        "ipdefault": "192.168.2.0",
+        "links": []
+    },
+    {
+        "name": "Router 4",
+        "hostname": "Xicso XP2v4",
+        "os": "IOS 3.4",
+        "ip4": "192.168.1.0",
+        "ip6": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+        "subnet": "192.168.2.x",
+        "username": "admin",
+        "password": "password",
+        "mask": "255.255.255.0",
+        "mac": "",
+        "ipdefault": "192.168.2.0",
+        "links": []
+    },
+    {
+        "name": "Router 5",
+        "hostname": "Xicso XP2v5",
+        "os": "IOS 3.4",
+        "ip4": "192.168.1.0",
+        "ip6": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+        "subnet": "192.168.2.x",
+        "username": "admin",
+        "password": "password",
+        "mask": "255.255.255.0",
+        "mac": "",
+        "ipdefault": "192.168.2.0",
+        "links": []
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Router 1",
+        "hostname": "houston",
+        "os": "IOS 3.4",
+        "ip4": "192.168.1.0",
+        "ip6": "2001:0db8:85a3:0000:0030:8a2e:0370:7334",
+        "subnet": "192.168.2.x",
+        "username": "admin",
+        "password": "password",
+        "mask": "255.255.255.0",
+        "mac": "",
+        "ipdefault": "192.168.1.0",
+        "links": [
+            "Switch 1",
+            "Switch 2",
+            "Switch 3"
+        ]
+    }
+]

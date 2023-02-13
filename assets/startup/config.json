@@ -1,0 +1,26 @@
+{
+    "R": 1,
+    "S": 3,
+    "links": {
+        "nodes": [
+            "Router 1",
+            "Switch 1",
+            "Switch 2",
+            "Switch 3"
+        ],
+        "edges": [
+            [
+                "Router 1",
+                "Switch 1"
+            ],
+            [
+                "Router 1",
+                "Switch 2"
+            ],
+            [
+                "Router 1",
+                "Switch 3"
+            ]
+        ]
+    }
+}

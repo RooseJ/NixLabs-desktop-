@@ -1,0 +1,27 @@
+Don't bother reading if you didn't build this
+
+
+The goal of this project is to offer an effective, interactive environment for learning networking concepts and protocols, more specifically TCP/IP
+
+I just used here to take notes cause it was easier to access 😆
+___________________________________________________________________________________________
+
+May try using try and except so code doesnt throw errors
+
+Change the defaults for base folder
+Create a commands list for the terminals
+
+For fixing errors:
+
+- Add a check feature to check if imported file is the right format
+
+- Figure out why a new instance of tkinter window is being created when I switch between open sim and create sim windows
+
+- Make import to not move files randomly (done)
+
+- Make import to not store file and only get info from file
+
+
+https://www.geeksforgeeks.org/python-substring-key-match-in-dictionary/
+Use this for implementing shortcut commands
+
